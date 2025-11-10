@@ -72,7 +72,7 @@ It also includes **secure authentication** using JWT, **image uploads** with Clo
 
 ## ⚙️ How to Run Locally
 ```bash
-git clone https://github.com/mozon-shawwa/ecommerce.git
+git clone https://github.com/mozon-shawwa/e-commerce.git
 cd ecommerce
 npm install
 npm start
@@ -90,5 +90,3 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 STRIPE_SECRET_KEY=your_stripe_key
 ```
-
-## 📂 Project Structure (Example)
